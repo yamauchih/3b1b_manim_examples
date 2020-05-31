@@ -1,7 +1,7 @@
 # Graph 2d examples
 1. Example 1. [A simple y = cos(x) graph](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md#a-simple-y--cosx-graph)
 2. Example 2. [Transform y = 0 to y = cos(x)](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md#transform-y--0-to-y--cosx)
-3. Example 3. [Transform y = 0 to y = cos(x)](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md#transform-y--0-to-y--cosx-1)
+3. Example 3. [Transform y = 0 to y = cos(x), but keep the y = 0](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md#transform-y--0-to-y--cosx-1)
 
 | Example 1 | Example 2 | Example 3 |
 | --- | --- | --- | 
@@ -122,7 +122,7 @@ class Example_Graph2d_01_02(GraphScene):
 ```
 <p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/gifs/Example_Graph2d_01_02.gif" width=800/></p>
 
-## Transform y = 0 to y = cos(x)
+## Transform y = 0 to y = cos(x), but keep the y = 0
 
 ```python3
 class Example_Graph2d_01_03(GraphScene):
