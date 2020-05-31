@@ -7,6 +7,10 @@ This example is based on manim 2019-07-10 (eb13def6093ac21b939af95a4ce61ff9f8873
 ## Example category
 * [Graph 2d](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md)
 
+| Graph2d Ex 1 | Graph2d Ex 2 | Graph2d Ex 3 |
+| --- | --- | --- | 
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/gifs/Example_Graph2d_01_01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/gifs/Example_Graph2d_01_02.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/gifs/Example_Graph2d_01_03.gif" width=300/>|
+
 ## Other tutorial links
 * [3b1b manim](https://github.com/3b1b/manim)
 * [Talking physics](https://talkingphysics.wordpress.com/2019/01/08/getting-started-animating-with-manim-and-python-3-7/)
