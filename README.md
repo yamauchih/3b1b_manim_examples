@@ -5,7 +5,7 @@ example code collection of 3Blue1Brawn [manim](https://github.com/3b1b/manim)
 This example is based on manim 2019-07-10 (eb13def6093ac21b939af95a4ce61ff9f88738f0)
 
 ## Example category
-* [Graph 2d](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/example_graph_2d.md)
+* [Graph 2d](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md)
 
 ## Other tutorial links
 * [3b1b manim](https://github.com/3b1b/manim)
