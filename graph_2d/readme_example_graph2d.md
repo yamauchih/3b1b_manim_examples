@@ -1,7 +1,7 @@
 # Graph 2d examples
-1. [A simple y = cos(x) graph]
-2. [Transform y = 0 to y = cos(x)]
-3. [Transform y = 0 to y = cos(x)]
+1. [A simple y = cos(x) graph](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md#a-simple-y--cosx-graph)
+2. [Transform y = 0 to y = cos(x)](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md#transform-y--0-to-y--cosx)
+3. [Transform y = 0 to y = cos(x)](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md#transform-y--0-to-y--cosx-1)
 
 ## A simple y = cos(x) graph
 
