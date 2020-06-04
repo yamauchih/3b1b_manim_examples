@@ -1,6 +1,6 @@
 # -*- coding: utf-8; -*-
 #
-# Graph 2D example
+# Graph 2D example 01
 # Copyright (C) 2020 Hitoshi Yamauchi
 #
 # License: BSD 3-Clause License
@@ -127,7 +127,7 @@ class Example_Graph2d_01_02(GraphScene):
 
 class Example_Graph2d_01_03(GraphScene):
     """
-    Example Graph2d_01 02
+    Example Graph2d_01 03
     Create a graph of y = 0
     Keep the y = 0, but trasform to y = cos(x)
     """
@@ -190,4 +190,3 @@ class Example_Graph2d_01_03(GraphScene):
         self.wait(1)
         self.play(Transform(work_graph, original_drawable_parametric_graph, run_time = 2))
         self.wait(5)
-
