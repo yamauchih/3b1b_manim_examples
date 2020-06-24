@@ -8,6 +8,7 @@ This example is based on manim 2019-07-10 (eb13def6093ac21b939af95a4ce61ff9f8873
 * [Geometry](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_geometry.md)
 
 | Geometry Ex 1 |
+| -- |
 |<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/Example_Geometry_01_01.gif" width=300/>|
 
 * [Graph 2d](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md)
