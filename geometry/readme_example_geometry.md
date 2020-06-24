@@ -1,9 +1,9 @@
 # Geometry examples
-1. Example 1. [A simple line start position move](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_geometry.md)
+1. Example 1. [A simple line start position move](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_geometry.md#a-simple-line-start-position-move)
 
 | Example 1 |
 | --- |
-|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/Example_geometry_01_01.gif" width=300/>|
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/Example_Geometry_01_01.gif" width=300/>|
 
 
 ## A simple line start position move
