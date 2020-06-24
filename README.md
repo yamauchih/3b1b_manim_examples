@@ -2,7 +2,9 @@
 ## Description of this examples
 example code collection of 3Blue1Brawn [manim](https://github.com/3b1b/manim)
 
-This example is based on manim 2019-07-10 (eb13def6093ac21b939af95a4ce61ff9f88738f0)
+These examples are based on manim 2019-07-10 (eb13def6093ac21b939af95a4ce61ff9f88738f0)
+
+Here I try to provide only simple and basic examples. Then, we can combine them as basic blocks to make a complex scene. 
 
 ## Example category
 * [Geometry](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_geometry.md)
