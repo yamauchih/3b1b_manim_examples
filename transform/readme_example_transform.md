@@ -1,6 +1,6 @@
 # Transform examples
-1. Example 1. [Demonstrate how Transform() changes the memory contents](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_transform.md)
-1. Example 2. [Demonstrate how to keep the invariant with Transform()](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_transform.md)
+1. Example 1. [Demonstrate how Transform() changes the memory contents](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_transform.md#demonstrate-how-transform-changes-the-memory-contents-minimal)
+1. Example 2. [Demonstrate how to keep the invariant with Transform()](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_transform.md#demonstrate-how-to-keep-the-invariant-with-transform-minimal)
 
 | Example  | With explanation  |
 | --- | --- |
