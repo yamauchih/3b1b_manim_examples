@@ -5,8 +5,7 @@
 
 | Ex. 1 | Ex. 2 |
 | --- | --- |
-|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_01_01.gif" width=300/>|
-|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_02_01.gif" width=300/>|
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_01_01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_02_01.gif" width=300/>|
 
 
 ## A simple line start position move
