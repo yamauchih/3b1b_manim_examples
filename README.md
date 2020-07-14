@@ -9,9 +9,9 @@ Here I try to provide only simple and basic examples. Then, we can combine them 
 ## Example category
 * [Geometry](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_geometry.md)
 
-| Geometry Ex 1 |
-| -- |
-|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/Example_Geometry_01_01.gif" width=300/>|
+| Geometry Ex 1 | Geometry Ex 2 |
+| -- | -- |
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_01_01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_02_01.gif" width=300/>|
 
 * [Graph 2d](https://github.com/yamauchih/3b1b_manim_examples/blob/master/graph_2d/readme_example_graph2d.md)
 
