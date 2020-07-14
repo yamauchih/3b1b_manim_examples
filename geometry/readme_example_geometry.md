@@ -1,15 +1,18 @@
 # Geometry examples
 1. Example 1. [A simple line start position move](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_geometry.md#a-simple-line-start-position-move)
+2. Example 2. [A comparison between line transform and line rotation](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_geometry.md)
 
-| Example 1 |
-| --- |
-|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/Example_Geometry_01_01.gif" width=300/>|
+
+| Ex. 1 | Ex. 2 |
+| --- | --- |
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_01_01.gif" width=300/>|
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_02_01.gif" width=300/>|
 
 
 ## A simple line start position move
 
 ```python3
-class Example_Geometry_01_01(Scene):
+class ExampleGeometry_01_01(Scene):
     """
     Example Geometry_01 01
     A line moves between x = x_0, x_1
@@ -35,5 +38,12 @@ class Example_Geometry_01_01(Scene):
         self.wait(3)
 ```
 
-<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/Example_geometry_01_01.gif" width=800/></p>
+<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_01_01.gif" width=800/></p>
+
+## A comparison between transform a line and rotatin a line
+
+```python3
+```
+
+<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/gifs/ExampleGeometry_02_01.gif" width=800/></p>
 
