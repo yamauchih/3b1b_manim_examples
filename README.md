@@ -1,5 +1,5 @@
 # 3b1b_manim_examples
-## Description of this examples
+## Description of these examples
 example code collection of 3Blue1Brawn [manim](https://github.com/3b1b/manim)
 
 These examples are based on manim 2019-07-10 (eb13def6093ac21b939af95a4ce61ff9f88738f0)
