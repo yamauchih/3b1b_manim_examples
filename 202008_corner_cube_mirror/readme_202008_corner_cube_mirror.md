@@ -12,10 +12,12 @@
 ## Overview
 
 Here is my YouTube video's source code.
+* [Corber cuube geometry (Part 1)](https://youtu.be/iJ-BPGlEwGw)
+* [Corber cuube geometry (Part 2)](https://youtu.be/M1ggN4IsYBA)
+* [Corber cuube geometry (Part 3 Still work in progress)]()
 
-This is my very first manim code. I had a lot of trial and error.
-Probably the later code is a bit more organized. Thus, I recommend to
-read the later code if you are interested in the source code.
+This is my very first manim code. I had a lot of trial and error. Probably the later code is a bit more organized. Thus, I recommend to read the later code if you are interested in the source code.
+The code and animation here are basically free to use (see the License) and to modify. I appreciate it that you let me know if you use it.
 
 License: BSD 3-Clause "New" or "Revised" License.
 
