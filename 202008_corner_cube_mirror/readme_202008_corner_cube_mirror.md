@@ -11,11 +11,14 @@
 
 ## Overview
 
-Here is my YouTube video's source code with BSD 3-Clause "New" or "Revised" License.
+Here is my YouTube video's source code.
 
-This is my very first manim code. I had a lot of trial and error. But,
-the later code is a bit more organized and the earlier code is more
-difficult to read. Thus, probably it is easier to read the later code.
+This is my very first manim code. I had a lot of trial and error.
+Probably the later code is a bit more organized. Thus, I recommend to
+read the later code if you are interested in the source code.
+
+License: BSD 3-Clause "New" or "Revised" License.
+
 
 ## Vertical angles introduction
 
@@ -33,8 +36,7 @@ A proof of why vertical angles are the same measure.
 
 Introducing corresponding angles
 
-<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/Corresp
-ondingAngles01.gif" width=640/></p>
+<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/CorrespondingAngles01.gif" width=640/></p>
 
 ## Alternate angles
 
@@ -46,23 +48,16 @@ Introducing alternate angles using vertical angles and corresponding angles
 
 Introducing mirror reflection (specular reflection) and the concept of normal and tangent.
 
-<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/" width=640/MirrorReflection01.gif></p>
+<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/MirrorReflection01.gif" width=640/MirrorReflection01.gif></p>
 
 ## Corner cube reflection
 
 A proof of corner cube reflection using vertical angles, corresponding angles, alternate angles with a mirror reflection.
 
-<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/" width=640/></p>
+<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/CornerReflection01.gif" width=640/></p>
 
 ## Corner cube reflection rays animation
 
 A short animation of the corner cube reflection rays
 
-<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/" width=640/></p>
-
-
-
-
-
-
-
+<p align="center"><img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/CornerCubeRay01.gif" width=640/></p>
