@@ -1,13 +1,13 @@
 # 202008 Corner cube geometry source code
 
-1. [Overview](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#)
-2. [Vertical angles introduction](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#)
-3. [Vertical angles proof](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#)
-4. [Corresponding angles](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#)
-5. [Alternate angles](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#)
-6. [Mirror reflection (Specular reflection)](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#)
-7. [Corner cube reflection](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#)
-8. [Corner cube reflection rays animation](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#)
+1. [Overview](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#overview)
+2. [Vertical angles introduction](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#vertical-angles-introduction)
+3. [Vertical angles proof](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#vertical-angles-proof)
+4. [Corresponding angles](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#corresponding-angles)
+5. [Alternate angles](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#alternate-angles)
+6. [Mirror reflection (Specular reflection)](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#mirror-reflection-specular-reflection)
+7. [Corner cube reflection](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#corner-cube-reflection)
+8. [Corner cube reflection rays animation](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md#corner-cube-reflection-rays-animation)
 
 ## Overview
 
