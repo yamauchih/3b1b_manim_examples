@@ -33,7 +33,7 @@ Here I provide two types of examples.
 ## Examples : Show one concept
 * [Corner cube geometry](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md)
 
-| Vertical angles intro | Vertical angle proof | Corresponding angles |
+| Vertical angles intro | Vertical angles proof | Corresponding angles |
 | --- | --- | --- | 
 |<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/VerticalAngle01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/VerticalAngleProof01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CorrespondingAngles01.gif" width=300/>|
 
