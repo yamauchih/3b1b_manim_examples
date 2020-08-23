@@ -38,13 +38,13 @@ Here I provide two types of examples.
 |<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/VerticalAngle01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/VerticalAngleProof01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CorrespondingAngles01.gif" width=300/>|
 
 
-| Alternate angles | Mirror reflection | Corresponding angles |
+| Alternate angles | Mirror reflection |  |
 | --- | --- | --- | 
-|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/AlternateAngles01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/MirrorReflection01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CornerCubeRay01.gif" width=300/>|
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/AlternateAngles01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/MirrorReflection01.gif" width=300/>||
 
-| Corner cube reflection | |  |
+| Corner cube reflection proof | corner cube animation|  |
 | --- | --- | --- | 
-|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CornerCubeRay01.gif" width=300/>|  |  |
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/CornerReflection01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CornerCubeRay01.gif" width=300/>  |  |
 
 ## Other tutorial links
 * [3b1b manim](https://github.com/3b1b/manim)
