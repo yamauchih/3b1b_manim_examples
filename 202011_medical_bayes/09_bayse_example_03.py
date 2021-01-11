@@ -8,6 +8,8 @@
 #
 # Using community manim: 28a733e9
 #
+# New BSD License
+#
 # Activate poetry (venv)
 #  cd data/gitdata/manim/community/manim/manim
 #  poetry shell

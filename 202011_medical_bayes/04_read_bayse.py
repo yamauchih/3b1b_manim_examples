@@ -6,6 +6,8 @@
 #
 #    (C) 2020 Hitoshi Yamauchi
 #
+# New BSD License
+#
 # Using community manim: 28a733e9
 #
 # Activate poetry (venv)

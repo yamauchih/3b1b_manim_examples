@@ -6,6 +6,8 @@
 #
 #    (C) 2020 Hitoshi Yamauchi
 #
+# New BSD License
+#
 #
 
 from manim import *
