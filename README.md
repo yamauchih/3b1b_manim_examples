@@ -5,8 +5,8 @@ example code collection of 3Blue1Brawn [manim](https://github.com/3b1b/manim)
 These examples are based on manim 2019-07-10 (eb13def6093ac21b939af95a4ce61ff9f88738f0)
 
 Here I provide two types of examples.
-* Examples that show a basic block. 
-* Examples that show one complete concept.
+* Examples that show a basic block animation by manim. 
+* Examples that show one complete concept. (Hopefully a reusable library of animations.)
 
 ## Examples : Basic block category
 * [Geometry](https://github.com/yamauchih/3b1b_manim_examples/blob/master/geometry/readme_example_geometry.md)
@@ -33,9 +33,18 @@ Here I provide two types of examples.
 ## Examples : Show one concept
 * [Corner cube geometry](https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/readme_202008_corner_cube_mirror.md)
 
-| Vertical angles | Corresponding angles | Corner cube rays |
+| Vertical angles intro | Vertical angles proof | Corresponding angles |
 | --- | --- | --- | 
-|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/VerticalAngle01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CorrespondingAngles01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CornerCubeRay01.gif" width=300/>|
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/VerticalAngle01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/VerticalAngleProof01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CorrespondingAngles01.gif" width=300/>|
+
+
+| Alternate angles |  |  |
+| --- | --- | --- | 
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/AlternateAngles01.gif" width=300/>| ||
+
+| Mirror reflection | Corner cube reflection proof | corner cube animation|
+| --- | --- | --- | 
+|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/MirrorReflection01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/blob/master/202008_corner_cube_mirror/gifs/CornerReflection01.gif" width=300/>|<img src ="https://github.com/yamauchih/3b1b_manim_examples/raw/master/202008_corner_cube_mirror/gifs/CornerCubeRay01.gif" width=300/>  |
 
 ## Other tutorial links
 * [3b1b manim](https://github.com/3b1b/manim)
